@@ -25,4 +25,4 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-remote_theme: Knhash/
+#remote_theme: /
