@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: Weixian Shi
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  A master student doing research at Bonn University, Germany
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://weixians.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Weixian Shi
+  github: https://github.com/weixians
+  linkedin: https://www.linkedin.com/in/weixianshi-ab17b5148/
+  email: weixian_shi@outlook.com
 
 
 # Syntax highlighting
