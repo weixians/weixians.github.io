@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weixian Shi
-subtitle: Master student of Bonn University
+subtitle: Deep Reinforcement Learning, Machine Learning, ROS
 sitemap:
   priority: 0.9
 ---
