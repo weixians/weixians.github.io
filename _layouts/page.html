@@ -20,6 +20,7 @@ layout: default
                 showMathMenu: false //关闭右击菜单显示
             }
         };
+        window.MathJax.Hub.Queue(["Typeset", MathJax.Hub,document.getElementsByClassName("ck-content")]);
     </script>
 </head>
 {% include page/title.html %}
