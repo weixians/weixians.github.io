@@ -1,3 +1,11 @@
+---
+layout: page
+title:  "Welcome to Pudhina"
+subtitle: "A minimal Jekyll theme"
+date:   2016-05-20 21:21:21 +0530
+categories: ["Reinforcement Learning"]
+---
+
 强化学习 (Reinforcement Learning)
 强推：刘建平的强化学习教程，本文内容亦大部分整理自此。本文更多的是当做工具书来快速查找自己想要的内容，而非对所有内容详细介绍。
 下一篇：《强化学习基础》- 时序差分(TD)、SARSA、Q-learning
