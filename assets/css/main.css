@@ -10,7 +10,11 @@ body {
 a {
     color: #3353FF;
     font-weight: bold;
-    /*text-decoration: none;*/
+    text-decoration: none;
+}
+
+a :hover {
+    text-decoration: underline;
 }
 
 p, ul, ol, dl {
