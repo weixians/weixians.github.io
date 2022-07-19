@@ -2,7 +2,10 @@ new Vue({
     data() {
         return {
             projectItems: [
-                {screenshots: ["/assets/img/project/monisheji_website.png"]}
+                {
+                    thumb: "/assets/img/project/monisheji_website.png",
+                    screenshots: ["/assets/img/project/monisheji_website.png"]
+                }
             ]
         }
     },
