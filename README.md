@@ -1,15 +1,8 @@
-# Pudhina
+## Introduction
 A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability
 
-[Click here](https://knhash.github.io/Pudhina/) to see the theme in action. Note that the download PDF button redirects to 404 due to lack of the file. This is by design, to demonstrate the Glitch effect therein.
-
-## Features
-- Simple, minimal and clean
-- Blog posts categorised
-- Responsive
-- Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
-- Font-Awesome Icons.
-- Glitchy 404 page
+This site is based on the project of [Pudhina](https://knhash.github.io/Pudhina/) which is a Jellky website available for Github pages. 
+I extend the features to support more awesome features for the self-introduction website.
 
 ## How to use it
 - Start by cloning the repository, then check the `_config.yml` file and change it accordingly. Note that the `title` property is what will be displayed as logo.
@@ -21,9 +14,6 @@ A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog,
 - Configure `index.md` for the main page, `blog.md` for Blog listing and `resume.md` for Resume page.
 - CSS properties can be found in `/assets/css/main.css`.
 - New posts to be created in the `/_posts/` directory, follow the naming convention used in samples. Front-matter requires title, subtitle, categories and date.
-
-## Credits
-Inspired by the theme [Daktilo](https://github.com/kronik3r/daktilo)
 
 ## License
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
