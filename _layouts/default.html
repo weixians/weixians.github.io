@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-{% include meta_tags/base.html %}
-{% include externals/styling.html %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+    {% include meta_tags/base.html %}
+    {% include externals/styling.html %}
 </head>
 <body>
 <div class="wrapper">
-{% include header.html %}
-{{ content }}
+    {% include header.html %}
+    {{ content }}
 </div>
 {% include externals/scripting.html %}
 
