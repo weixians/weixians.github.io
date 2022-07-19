@@ -132,7 +132,7 @@ subtitle:
     <div v-for="item in projectItems">
         <div style="height:180px;text-align: left">
             <div style="width:30%; height:auto; float:left; display:inline; margin-top: 2%">
-                <img :src="item.screenshots" alt="">
+                <img v-bind:src="item.screenshots" alt="">
             </div>
             <div style="width:65%; height:auto; float:left; display:inline; margin-left: 5%">
                 <h3 style="text-align: left">Official website of Zhuhai Guangge Technology Co., Ltd.</h3>
