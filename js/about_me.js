@@ -1,15 +1,12 @@
 new Vue({
-    data(){
-        return{
-            project_items:[
-
+    data() {
+        return {
+            projectItems: [
+                {screenshots: ["/assets/img/project/monisheji_website.png"]}
             ]
         }
     },
-    created(){
-        console.log("success")
+    created() {
     },
-    methods:{
-
-    }
+    methods: {}
 })

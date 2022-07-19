@@ -129,6 +129,24 @@ subtitle:
         </div>
     </div>
 
+    <div v-for="item in projectItems">
+        <div style="height:180px;text-align: left">
+            <div style="width:30%; height:auto; float:left; display:inline; margin-top: 2%">
+                <img :src="item.screenshots" alt="">
+            </div>
+            <div style="width:65%; height:auto; float:left; display:inline; margin-left: 5%">
+                <h3 style="text-align: left">Official website of Zhuhai Guangge Technology Co., Ltd.</h3>
+                <p><b>Frontend program</b></p>
+                <p>
+                    <span><a href="https://monisheji.com" target="_blank">link</a></span> /
+                    <span><a href="https://github.com/weixians/esa" target="_blank">screenshots</a></span> /
+                    <span><a href="https://www.hrl.uni-bonn.de/publications/shi22icra.mp4" target="_blank">description</a></span>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
