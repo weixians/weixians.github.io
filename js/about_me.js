@@ -1,4 +1,4 @@
-new Vue({
+const app =new Vue({
     data() {
         return {
             projectItems: [
