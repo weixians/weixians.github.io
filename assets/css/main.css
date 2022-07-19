@@ -17,6 +17,10 @@ a :hover {
     text-decoration: underline !important;
 }
 
+p {
+    margin: 8px !important;
+}
+
 p, ul, ol, dl {
     font-size: 100%;
     line-height: 32px;
