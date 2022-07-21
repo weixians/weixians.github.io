@@ -1,5 +1,5 @@
-## Introduction
-A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability
+# My homepage
+Go to [my homepage](https://weixians.github.io/) to check the running result.
 
 This site is based on the project of [Pudhina](https://knhash.github.io/Pudhina/) which is a Jellky website available for Github pages. 
 I extend the features to support more awesome features for the self-introduction website.
