@@ -41,7 +41,7 @@ Research Projects
   * The high-level agent predicts subgoal position for next fixed time period, while the low-level agent aims to achieve the subgoal.
   * The result will be rearranged and submitted to ICRA 2023.
 
-* **techniques**: Deep reinforcement learning (DDPG, TD3), Pybullet, ROS, Python, C++
+* **Techniques**: Deep reinforcement learning (DDPG, TD3), Pybullet, ROS, Python, C++
 
 **Enhanced Spatial Attention Graph for Motion Planning in Crowded, Partially Observable Environments**
 
@@ -50,7 +50,7 @@ Research Projects
   * Propose a new neural network based on reinforcement learning for human-aware partially observable environments.
   * This approach outperforms the previous state-of-the-art methods.
 
-* **techniques**: Deep reinforcement learning (Double DQN, imitation learning), Python
+* **Techniques**: Deep reinforcement learning (Double DQN, imitation learning), Python
 
 Software Development Work projects
 --------------------
@@ -61,7 +61,7 @@ Software Development Work projects
 * A Spring project providing data for JD stock app.
 * Integrate data from multiple MySQL databases, find and aggregate the relationship between major shareholders and companies in massive data,
   and store the results in Redis.
-* **Learned**: Quickly and efficiently aggregate useful information from large amounts of data.
+* **Techniques**: Quickly and efficiently aggregate useful information from large amounts of data.
 
 **Web match system for electronic laser shooting sports events**
 
@@ -69,7 +69,7 @@ Software Development Work projects
 * A web-based match system to hold sports matches, collect scores from Android app and display the real-time ranking information. 
 * Separating the system into several modules, in which Spring cloud is used to help communicate with each other.
 * Websocket is used to maintain the messaging between frontend, Java backend and Android app.
-* **Learned**: Spring boot, Vue.js, Websocket, Mysql, Redis, MongoDB
+* **Techniques**: Spring boot, Vue.js, Websocket, Mysql, Redis, MongoDB
 
 **Android APP of laser shooting systems for sporting events**
 
@@ -77,7 +77,7 @@ Software Development Work projects
 * An app for middle school student-athletes that receives hardware device data via Bluetooth, and visualizes laser transmitter firing positions, trigger pressure data, etc.
 * This app can receive and parse data from different types of hardware devices.
 * In addition, synchronous backup of data is also implemented based on socket and http, as well as its use in competition scenarios.
-* **Learned**: Android, Bluetooth, Socket, Http
+* **Techniques**: Android, Bluetooth, Socket, Http
 
 Other information
 --------------------
