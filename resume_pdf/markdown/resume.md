@@ -52,7 +52,7 @@ Research Projects
 
 * **techniques**: Deep reinforcement learning (Double DQN, imitation learning), Python
 
-Some Work projects
+Software Development Work projects
 --------------------
 
 **Investment relation map for JD stock app**
@@ -77,7 +77,7 @@ Some Work projects
 * An app for middle school student-athletes that receives hardware device data via Bluetooth, and visualizes laser transmitter firing positions, trigger pressure data, etc.
 * This app can receive and parse data from different types of hardware devices.
 * In addition, synchronous backup of data is also implemented based on socket and http, as well as its use in competition scenarios.
-* **Learned**: Android, Bluetooth, socket, http, Realm database, MVP design pattern
+* **Learned**: Android, Bluetooth, Socket, Http
 
 Other information
 --------------------
