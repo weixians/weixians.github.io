@@ -26,14 +26,19 @@ Work
 
 2020 - 2022 &emsp;&emsp;&emsp; **Fraunhofer IAIS** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Software engineer
 
-2017 - 2022 &emsp;&emsp;&emsp;  **Zhuhai Guangge Technology** &emsp;&emsp;&nbsp;&nbsp;&nbsp; Software engineer
+[//]: # (2017 - 2022 &emsp;&emsp;&emsp;  **Zhuhai Guangge Technology** &emsp;&emsp;&nbsp;&nbsp;&nbsp; Software engineer)
 
 2017 - 2017 &emsp;&emsp;&emsp; **JD.com** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Java developer intern
 
 Research Projects
 ----------
+**Re-implementation of a Job Schedule paper based on Deep Reinforcement Learning**
 
-**Subgoal-driven robot navigation in indoor environments**
+  * Paper: "Research on Adaptive Job Shop Scheduling Problems Based on Dueling Double DQN"
+  * Four days from understanding the field to reproducing, to achieve basically the same effect as the paper (sometimes even better)
+  * Link: https://github.com/weixians/JobSchedule
+    
+**Subgoal-driven robot navigation based on Deep Reinforcement Learning**
 
 * Master thesis project, with [project link](https://github.com/weixians/subgoal-nav) available.
 
@@ -71,13 +76,18 @@ Software Development Work projects
 * Websocket is used to maintain the messaging between frontend, Java backend and Android app.
 * **Techniques**: Spring boot, Vue.js, Websocket, Mysql, Redis, MongoDB
 
-**Android APP of laser shooting systems for sporting events**
+[//]: # (**Android APP of laser shooting systems for sporting events**)
 
-* Company: Zhuhai Guangge Technology
-* An app for middle school student-athletes that receives hardware device data via Bluetooth, and visualizes laser transmitter firing positions, trigger pressure data, etc.
-* This app can receive and parse data from different types of hardware devices.
-* In addition, synchronous backup of data is also implemented based on socket and http, as well as its use in competition scenarios.
-* **Techniques**: Android, Bluetooth, Socket, Http
+[//]: # ()
+[//]: # (* Company: Zhuhai Guangge Technology)
+
+[//]: # (* An app for middle school student-athletes that receives hardware device data via Bluetooth, and visualizes laser transmitter firing positions, trigger pressure data, etc.)
+
+[//]: # (* This app can receive and parse data from different types of hardware devices.)
+
+[//]: # (* In addition, synchronous backup of data is also implemented based on socket and http, as well as its use in competition scenarios.)
+
+[//]: # (* **Techniques**: Android, Bluetooth, Socket, Http)
 
 Other information
 --------------------
